@@ -12,3 +12,26 @@ img,
 video {
   display: block;
 }
+
+.card {
+  border-radius: 25px;
+  background: #fff;
+  box-shadow: 0 4px 10px 10px rgba(0, 0, 0, 0.05);
+  width: 370px;
+  padding: 15px;
+  gap: 20px;
+}
+
+.card p {
+  color: #000;
+  font-family: Roboto;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 35px;
+}
+
+.user {
+  display: flex;
+  gap: 20px;
+}
