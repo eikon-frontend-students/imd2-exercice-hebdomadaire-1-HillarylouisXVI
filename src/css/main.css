@@ -19,12 +19,12 @@ video {
   box-shadow: 0 4px 10px 10px rgba(0, 0, 0, 0.05);
   width: 370px;
   padding: 15px;
+  margin: 50px;
 }
 
 p {
   font-size: 27px;
   font-family: Roboto;
-  font-style: normal;
   font-weight: 400;
   line-height: 35px;
 }
@@ -37,15 +37,11 @@ p {
 .nom {
   color: #000;
   font-size: 20px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 24px;
 }
 .date {
   color: rgba(0, 0, 0, 0.5);
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
 }
 
 img {
