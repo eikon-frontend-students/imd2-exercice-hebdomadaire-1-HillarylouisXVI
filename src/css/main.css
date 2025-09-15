@@ -12,7 +12,9 @@ img,
 video {
   display: block;
 }
-
+body {
+  background: #e7eaee;
+}
 .card {
   border-radius: 25px;
   background: #fff;
